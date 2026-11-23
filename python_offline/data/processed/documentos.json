@@ -1,0 +1,401 @@
+[
+  {
+    "id": "PC001",
+    "nombre": "Getttech Vitro N100A-24M",
+    "precio_mxn": 5009,
+    "tags": [
+      "desktop",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel N100, 8GB de memoria RAM, 240GB SSD, Wi-Fi, Windows 11 Prueba. Ventajas: Equipo muy económico y de bajo consumo ideal para tareas básicas de oficina, navegación y multimedia ligera. Desventajas: El procesador N100 es muy limitado para multitarea pesada; los 8GB de RAM y 240GB de SSD se quedarán cortos rápidamente y Windows 11 Prueba requiere adquirir una licencia posteriormente."
+  },
+  {
+    "id": "PC002",
+    "nombre": "IO Technology IO-AMDR3FRSSD2SFF011",
+    "precio_mxn": 6009,
+    "tags": [
+      "desktop",
+      "ofimatica"
+    ],
+    "texto": "Procesador AMD Ryzen 3 3200G, 8GB de memoria RAM, 256GB SSD, sin Sistema Operativo. Ventajas: Los gráficos integrados Vega 8 del Ryzen 3200G permiten jugar títulos muy ligeros o antiguos, y ofrece un buen rendimiento básico de oficina. Desventajas: El procesador ya tiene varias generaciones de antigüedad; sin sistema operativo requiere instalación técnica, y 256GB de almacenamiento son muy limitantes."
+  },
+  {
+    "id": "PC003",
+    "nombre": "Ghia Frontier Slim 2.0",
+    "precio_mxn": 6159,
+    "tags": [
+      "desktop",
+      "ofimatica"
+    ],
+    "texto": "Procesador Intel N100, 8GB de memoria RAM, 240GB SSD, sin Sistema Operativo, incluye Teclado y Mouse. Ventajas: Diseño compacto slim que ahorra espacio e incluye periféricos básicos. Desventajas: Viene sin sistema operativo; el procesador N100 y los 8GB de RAM son un cuello de botella para tareas que no sean estrictamente básicas, y 240GB de espacio es mínimo."
+  },
+  {
+    "id": "PC004",
+    "nombre": "IO Technology IO-STC3FRSSD4SFF051",
+    "precio_mxn": 7979,
+    "tags": [
+      "desktop",
+      "ofimatica"
+    ],
+    "texto": "Procesador Intel Core i3-12100, 8GB de memoria RAM, 480GB SSD, sin Sistema Operativo. Ventajas: El Core i3 de 12a generación ofrece un excelente rendimiento de un solo núcleo para ofimática rápida y un SSD de tamaño decente. Desventajas: Solo cuenta con 8GB de RAM lo cual limitará la multitarea moderna y viene sin sistema operativo preinstalado."
+  },
+  {
+    "id": "PC005",
+    "nombre": "Xtreme PC Gaming CM-05456",
+    "precio_mxn": 15259,
+    "tags": [
+      "desktop",
+      "gaming"
+    ],
+    "texto": "Procesador AMD Ryzen 7 8700G, 16GB de memoria RAM, 500GB SSD, Wi-Fi, Windows 11 Prueba. Ventajas: El Ryzen 7 8700G tiene los gráficos integrados más potentes del mercado actual (Radeon 780M), permitiendo jugar muy bien a 1080p sin tarjeta de video dedicada. Desventajas: Al depender de gráficos integrados, parte de los 16GB de RAM se compartirán con el video, y no incluye licencia completa de Windows."
+  },
+  {
+    "id": "PC006",
+    "nombre": "Xtreme PC Gaming Dragonfly Black",
+    "precio_mxn": 15494,
+    "tags": [
+      "desktop",
+      "gaming",
+      "creador"
+    ],
+    "texto": "Procesador AMD Ryzen 7 5700G, 16GB de memoria RAM, 500GB SSD, Wi-Fi, Windows 10 Prueba, incluye Teclado, Mouse y Monitor de 27\". Ventajas: Excelente paquete completo (incluye monitor de 27\") con un procesador de 8 núcleos competente para multitarea y juegos de entrada. Desventajas: El Ryzen 5700G usa la arquitectura Zen 3 más antigua; los gráficos integrados Vega se quedan atrás frente a la nueva generación y el SSD de 500GB es poco para juegos."
+  },
+  {
+    "id": "PC007",
+    "nombre": "Xtreme PC Gaming CM-80052",
+    "precio_mxn": 28242,
+    "tags": [
+      "desktop",
+      "gaming",
+      "creador"
+    ],
+    "texto": "Procesador AMD Ryzen 7 5700, 16GB de memoria RAM, 1TB SSD, Tarjeta gráfica NVIDIA GeForce RTX 5060, Wi-Fi, Windows 11 Prueba. Ventajas: La RTX 5060 ofrece un rendimiento gráfico brutal de nueva generación con DLSS avanzado, y 1TB de SSD da buen margen para instalar juegos. Desventajas: El procesador Ryzen 7 5700 (arquitectura Zen 3) puede generar un ligero cuello de botella a la potente GPU RTX 5060 a resoluciones bajas como 1080p."
+  },
+  {
+    "id": "PC008",
+    "nombre": "Alchemy Force",
+    "precio_mxn": 52367,
+    "tags": [
+      "desktop",
+      "gaming",
+      "creador"
+    ],
+    "texto": "Procesador AMD Ryzen 5 9600X, 32GB de memoria RAM DDR5 6000MHz, 2TB SSD Gen4, Tarjeta gráfica Radeon RX 9070 16GB, Placa B850, Fuente 850W Gold, Wi-Fi, Windows 11 Home Prueba. Ventajas: Equipo de altísima gama de última generación; excelente combinación de DDR5, almacenamiento rapidísimo y una GPU RX 9070 con 16GB de VRAM ideal para 4K y cargas pesadas. Desventajas: El precio es sumamente elevado y solo incluye versión de prueba de Windows."
+  },
+  {
+    "id": "PC009",
+    "nombre": "Ghia Frontier Slim",
+    "precio_mxn": 22299,
+    "tags": [
+      "desktop",
+      "creador",
+      "ofimatica"
+    ],
+    "texto": "Procesador AMD Ryzen 7 8700G, 16GB de memoria RAM, 1TB SSD, Wi-Fi, Windows 11 Home, incluye Teclado y Mouse. Ventajas: Formato compacto con un procesador moderno de excelentes gráficos integrados, 1TB de buen almacenamiento y licencia original de Windows. Desventajas: El precio es alto para no contar con una tarjeta de video dedicada, lo que limita su capacidad para renders 3D pesados o gaming AAA a máxima calidad."
+  },
+  {
+    "id": "PC010",
+    "nombre": "Apple Mac Mini",
+    "precio_mxn": 31999,
+    "tags": [
+      "desktop",
+      "creador",
+      "movilidad"
+    ],
+    "texto": "Procesador Apple M2 Pro (CPU 10 Núcleos y GPU 16 Núcleos), 16GB de memoria unificada, 512GB SSD, Gigabit Ethernet, Plata. Ventajas: Rendimiento espectacular en edición de video y audio con el M2 Pro en un factor de forma minúsculo, ultra silencioso y eficiente. Desventajas: Sistema cerrado; es imposible actualizar la RAM o el SSD en el futuro, y 512GB es limitante para flujos de trabajo profesionales pesados."
+  },
+  {
+    "id": "PC011",
+    "nombre": "HP ProDesk 4",
+    "precio_mxn": 29609,
+    "tags": [
+      "desktop",
+      "ofimatica",
+      "creador"
+    ],
+    "texto": "Procesador Intel Core Ultra 7 265, 16GB de memoria RAM, 512GB SSD, Wi-Fi, Windows 11 Pro, incluye Teclado y Mouse. Ventajas: Procesador de última generación con gran eficiencia y NPU integrada; incluye Windows 11 Pro ideal para redes empresariales. Desventajas: El precio es muy alto para tener solo gráficos integrados y 512GB de almacenamiento en un entorno corporativo de alto nivel."
+  },
+  {
+    "id": "PC012",
+    "nombre": "Dell Pro Slim Plus",
+    "precio_mxn": 25949,
+    "tags": [
+      "desktop",
+      "ofimatica",
+      "creador"
+    ],
+    "texto": "Procesador Intel Core Ultra 7 265, 16GB de memoria RAM, 512GB SSD, Wi-Fi, Windows 11 Pro. Ventajas: Chasis delgado y elegante, excelente rendimiento de CPU con la serie Intel Core Ultra, conectividad robusta y Windows 11 Pro. Desventajas: Carece de GPU dedicada para cargas creativas aceleradas por hardware y comparte la misma limitación de 512GB de almacenamiento por un precio considerable."
+  },
+  {
+    "id": "LT001",
+    "nombre": "HP 245 G8",
+    "precio_mxn": 9669,
+    "tags": [
+      "laptop",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador AMD Ryzen 3 3250U, 8GB de memoria RAM, 256GB SSD, pantalla 14\" 1920x1080 Full HD, Windows 11 Home. Ventajas: Equipo portátil y compacto con resolución Full HD, ideal para estudiantes o trabajos básicos de oficina. Desventajas: El Ryzen 3 3250U es un procesador de gama baja y antigua; los 8GB de RAM y 256GB de SSD limitarán la capacidad de realizar múltiples tareas simultáneas o instalar programas pesados."
+  },
+  {
+    "id": "LT002",
+    "nombre": "ASUS Chromebook CZ1104FM4A",
+    "precio_mxn": 9929,
+    "tags": [
+      "laptop",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Mediatek Kompanio 540, 8GB de memoria RAM, 64GB eMMC, pantalla táctil 11.6\" 1366x768 HD, ChromeOS. Ventajas: Extremadamente ligera, pantalla táctil y el sistema ChromeOS es muy rápido y seguro para navegar por internet y usar aplicaciones en la nube. Desventajas: Dependencia casi total de una conexión a internet; no puede instalar aplicaciones nativas de Windows (.exe), y los 64GB eMMC son muy lentos y escasos."
+  },
+  {
+    "id": "LT003",
+    "nombre": "Vorago Alpha Plus",
+    "precio_mxn": 7919,
+    "tags": [
+      "laptop",
+      "ofimatica"
+    ],
+    "texto": "Procesador Intel Celeron N4020, 4GB de memoria RAM, 500GB HDD + 64GB eMMC, pantalla 14\" 1366x768 HD, Windows 10 Pro. Ventajas: Es una opción de muy bajo costo que incluye almacenamiento híbrido y licencia de Windows 10 Pro. Desventajas: El hardware es extremadamente básico; el Celeron N4020 con solo 4GB de RAM y un disco duro mecánico (HDD) causarán mucha lentitud incluso en tareas cotidianas como abrir Chrome o Word."
+  },
+  {
+    "id": "LT004",
+    "nombre": "HP ProBook 4 G1ah",
+    "precio_mxn": 19529,
+    "tags": [
+      "laptop",
+      "ofimatica"
+    ],
+    "texto": "Procesador AMD Ryzen 5 220, 16GB de memoria RAM, 512GB SSD, pantalla 16\" 1920x1200 WUXGA, Windows 11 Pro. Ventajas: Excelente pantalla de formato 16:10 ideal para productividad, 16GB de RAM para buena multitarea y chasis empresarial resistente. Desventajas: Su precio es elevado considerando que no posee una tarjeta gráfica dedicada, lo que la descarta para edición de video compleja o gaming."
+  },
+  {
+    "id": "LT005",
+    "nombre": "HP Victus BT4F6LA-W11-V5",
+    "precio_mxn": 33509,
+    "tags": [
+      "laptop",
+      "gaming",
+      "creador"
+    ],
+    "texto": "Procesador AMD Ryzen 7 7445HS, 32GB de memoria RAM, 1TB SSD, Tarjeta gráfica NVIDIA GeForce RTX 3050, pantalla 15.6\" 1920x1080 Full HD, Windows 11 Home. Ventajas: Sobresaliente cantidad de memoria RAM (32GB) y almacenamiento (1TB) que brindan gran holgura para creadores de contenido y multitarea extrema. Desventajas: La GPU RTX 3050 es de gama de entrada y desentona frente al resto de especificaciones de gama alta, limitando el rendimiento en juegos AAA modernos."
+  },
+  {
+    "id": "LT006",
+    "nombre": "Lenovo Legion Pro 7",
+    "precio_mxn": 82389,
+    "tags": [
+      "laptop",
+      "gaming",
+      "creador"
+    ],
+    "texto": "Procesador Intel Core Ultra 9 275HX, 32GB de memoria RAM, 1TB SSD, Tarjeta gráfica NVIDIA GeForce RTX 5080, pantalla 16\" 2560x1600, Windows 11 Home. Ventajas: Especificaciones de nivel tope de gama absoluto; la RTX 5080 y el Core Ultra 9 destrozarán cualquier juego en resolución QHD+ y tareas de renderizado pesado. Desventajas: Equipo excesivamente costoso, pesado, y con una batería que durará muy poco tiempo desconectada de la corriente debido a su enorme potencia."
+  },
+  {
+    "id": "LT007",
+    "nombre": "ASUS TUF Gaming A15",
+    "precio_mxn": 26257,
+    "tags": [
+      "laptop",
+      "gaming"
+    ],
+    "texto": "Procesador AMD Ryzen 7 7445HS, 24GB de memoria RAM, 512GB SSD, Tarjeta gráfica NVIDIA GeForce RTX 3050, pantalla 15.6\" 1920x1080 Full HD, Windows 11 Home. Ventajas: Excelente procesador Ryzen 7 y cantidad inusual pero muy útil de RAM (24GB) montados en un chasis resistente de grado militar. Desventajas: Al igual que otros modelos, la RTX 3050 limitará los gráficos en juegos exigentes y los 512GB de almacenamiento se llenarán muy rápido instalando pocos juegos."
+  },
+  {
+    "id": "LT008",
+    "nombre": "Alienware M16 R2",
+    "precio_mxn": 35739,
+    "tags": [
+      "laptop",
+      "gaming"
+    ],
+    "texto": "Procesador Intel Core Ultra 7 155H, 16GB de memoria RAM, 1TB SSD, Tarjeta gráfica NVIDIA GeForce RTX 4050, pantalla 16\" 2560x1600, Windows 11 Home. Ventajas: Calidad de construcción premium característica de Alienware, excelente procesador Core Ultra y pantalla de alta resolución QHD+. Desventajas: La RTX 4050 es una tarjeta gráfica básica que batallará para mover juegos exigentes a la resolución nativa de 2560x1600 de la pantalla."
+  },
+  {
+    "id": "LT009",
+    "nombre": "Lenovo ThinkPad L14 Gen 6",
+    "precio_mxn": 30049,
+    "tags": [
+      "laptop",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core Ultra 7 255U, 16GB de memoria RAM, 512GB SSD, pantalla 14\" 1920x1200 WUXGA, Windows 11 Pro. Ventajas: Equipo empresarial de altísima durabilidad y confiabilidad, con un procesador de la serie \"U\" diseñado para maximizar la duración de la batería. Desventajas: Rendimiento gráfico muy limitado por usar gráficos integrados, y el precio es muy alto justificado solo por características empresariales como seguridad y construcción."
+  },
+  {
+    "id": "LT010",
+    "nombre": "Lenovo LOQ 15AHP10",
+    "precio_mxn": 28128,
+    "tags": [
+      "laptop",
+      "gaming"
+    ],
+    "texto": "Procesador AMD Ryzen 7 250, 16GB de memoria RAM, 512GB SSD, Tarjeta gráfica NVIDIA GeForce RTX 5060, pantalla 15.6\" 1920x1080 Full HD. Ventajas: Gran equilibrio calidad-precio para gaming moderno; la RTX 5060 ofrecerá excelentes tasas de cuadros (FPS) en la resolución Full HD del equipo. Desventajas: El almacenamiento SSD de 512GB es el punto débil para un equipo gamer moderno, obligando a desinstalar juegos constantemente o comprar almacenamiento extra."
+  },
+  {
+    "id": "LT011",
+    "nombre": "HP ZBook 8 G3a",
+    "precio_mxn": 66179,
+    "tags": [
+      "laptop",
+      "creador",
+      "ofimatica"
+    ],
+    "texto": "Procesador AMD Ryzen AI 9 HX PRO 470, 24GB de memoria RAM, 1TB SSD, pantalla 16\" 1920x1200 WUXGA, Windows 11 Pro. Ventajas: Estación de trabajo móvil con un procesador Ryzen con NPU avanzada para cargas de Inteligencia Artificial y gran cantidad de memoria RAM. Desventajas: Tiene un costo astronómico considerando que no menciona poseer una GPU profesional dedicada (como la línea NVIDIA RTX Ada o Radeon Pro), vital en estaciones de trabajo."
+  },
+  {
+    "id": "LT012",
+    "nombre": "ASUS Zenbook 14",
+    "precio_mxn": 20469,
+    "tags": [
+      "laptop",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core Ultra 5 125H, 8GB de memoria RAM, 512GB SSD, pantalla 14\" 1920x1080 Full HD, Windows 11 Home. Ventajas: Diseño ultradelgado, elegante y muy ligero con un procesador moderno enfocado en la eficiencia energética y buena duración de batería. Desventajas: Solamente tiene 8GB de RAM, lo cual es inaceptable para un equipo de este precio y limitará seriamente su vida útil y rendimiento en multitarea."
+  },
+  {
+    "id": "TB001",
+    "nombre": "Dell Inspiron DC15250",
+    "precio_mxn": 14169,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core i5-1334U, 16GB de memoria RAM, 512GB SSD, pantalla 15.6\" 1920x1080 Full HD Táctil, Windows 11 Home S. Ventajas: Equipo híbrido con pantalla táctil grande de 15.6\", procesador i5 de 13a generación muy capaz para multitarea diaria y 16GB de RAM. Desventajas: El modo \"S\" de Windows 11 limita la instalación de aplicaciones únicamente a las de la Microsoft Store, requiriendo un proceso extra para desbloquear la versión completa."
+  },
+  {
+    "id": "TB002",
+    "nombre": "ASUS Zenbook A16",
+    "precio_mxn": 48069,
+    "tags": [
+      "laptop",
+      "tablet",
+      "creador",
+      "movilidad"
+    ],
+    "texto": "Procesador Snapdragon X2 Elite Extreme X2E-94-100, 48GB de memoria RAM, 512GB SSD, pantalla 16\" 2880x1800 Táctil, Windows 11 Home. Ventajas: Arquitectura ARM ultrarresistente con el potente Snapdragon X2 Elite Extreme y una masiva cantidad de 48GB de RAM, combinados en un panel táctil de altísima resolución. Desventajas: La arquitectura ARM puede presentar problemas de compatibilidad o rendimiento reducido al emular ciertos programas x86/x64 tradicionales de Windows."
+  },
+  {
+    "id": "TB003",
+    "nombre": "HP Elite x360 1040 G11",
+    "precio_mxn": 46089,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "creador",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core Ultra 7 165H, 32GB de memoria RAM, 512GB SSD, pantalla 14\" 1920x1200 WUXGA Táctil convertible, Windows 11 Pro. Ventajas: Equipo empresarial 2-en-1 premium con procesador Core Ultra 7 de alto rendimiento, 32GB de RAM para multitarea pesada y portabilidad excepcional. Desventajas: Su precio es sumamente elevado para un equipo que carece de tarjeta gráfica dedicada y solo cuenta con 512GB de almacenamiento interno."
+  },
+  {
+    "id": "TB004",
+    "nombre": "Lenovo IdeaPad 5",
+    "precio_mxn": 21389,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "creador"
+    ],
+    "texto": "Procesador AMD Ryzen 7 8845HS, 16GB de memoria RAM, 1TB SSD, pantalla 16\" 1920x1200 WUXGA Táctil, Windows 11 Home. Ventajas: Excelente combinación de rendimiento de CPU (serie HS de alto voltaje), 1TB de almacenamiento y pantalla táctil amplia en formato 16:10. Desventajas: Al usar un procesador de alto rendimiento (serie HS) en un chasis delgado y sin gráfica dedicada, la batería durará menos y puede calentarse más que equipos ultraligeros similares."
+  },
+  {
+    "id": "TB005",
+    "nombre": "ASUS ProArt P16",
+    "precio_mxn": 94309,
+    "tags": [
+      "laptop",
+      "tablet",
+      "creador",
+      "gaming"
+    ],
+    "texto": "Procesador AMD Ryzen AI 9 HX 370, 64GB de memoria RAM, 2TB SSD, Tarjeta gráfica NVIDIA GeForce RTX 5080, pantalla 16\" 3840x2400 Táctil, Windows 11 Home. Ventajas: Una auténtica bestia de creación de contenido; cuenta con pantalla táctil 4K+, NPU de última generación, masivos 64GB de RAM y una brutal GPU RTX 5080. Desventajas: Precio prohibitivo que lo hace inaccesible para la inmensa mayoría de usuarios, además de ser muy pesado y consumir mucha energía."
+  },
+  {
+    "id": "TB006",
+    "nombre": "ASUS Zenbook Duo UX8407AA",
+    "precio_mxn": 54869,
+    "tags": [
+      "laptop",
+      "tablet",
+      "creador",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core Ultra 9 386H, 32GB de memoria RAM, 1TB SSD, doble pantalla táctil 14\" 2880x1800, Windows 11 Pro. Ventajas: Diseño futurista de doble pantalla táctil que revoluciona el flujo de trabajo multitarea, impulsado por un Core Ultra 9 de máximo rendimiento. Desventajas: El factor de forma de doble pantalla sacrifica el teclado físico integrado (suele ser removible o virtual) y drena la batería considerablemente más rápido."
+  },
+  {
+    "id": "TB007",
+    "nombre": "HP OmniBook X Flip",
+    "precio_mxn": 19519,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core Ultra 5 226V, 16GB de memoria RAM, 512GB SSD, pantalla 14\" 1920x1200 WUXGA Táctil, Windows 11 Home. Ventajas: Ultraligera y convertible, con un procesador optimizado para eficiencia energética extrema y pantalla 16:10 ideal para ofimática. Desventajas: El Core Ultra 5 serie V prioriza el ahorro de batería sobre la potencia bruta, por lo que no es apto para tareas exigentes, y 512GB de disco es lo mínimo aceptable hoy en día."
+  },
+  {
+    "id": "TB008",
+    "nombre": "Apple MacBook Pro PROLED XDR",
+    "precio_mxn": 107879,
+    "tags": [
+      "laptop",
+      "creador",
+      "movilidad"
+    ],
+    "texto": "Procesador Apple M5 Max (CPU 18 Núcleos y GPU 32 Núcleos), 36GB de memoria unificada, 2TB SSD, pantalla 16.2\" PROLED XDR, Plata. Ventajas: Rendimiento inigualable en edición de video e IA móvil gracias al M5 Max, con la mejor pantalla y duración de batería del mercado profesional. Desventajas: A pesar de su nombre y características en el texto, este equipo no es táctil ni 2-en-1, el ecosistema es cerrado y su costo supera los $100,000 pesos."
+  },
+  {
+    "id": "TB009",
+    "nombre": "Dell LDC15250",
+    "precio_mxn": 24969,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "creador"
+    ],
+    "texto": "Procesador Intel Core i7-1355U, 32GB de memoria RAM, 2TB SSD, pantalla 15.6\" 1920x1080 Full HD Táctil. Ventajas: Extraordinaria cantidad de RAM y almacenamiento (2TB) para su rango de precio, combinados con un procesador i7 muy solvente. Desventajas: El texto de especificaciones está incompleto y no detalla el sistema operativo; además, la serie \"U\" de Intel limitará el desempeño continuo bajo cargas prolongadas y pesadas."
+  },
+  {
+    "id": "TB010",
+    "nombre": "Lenovo Yoga 7 14IPH11",
+    "precio_mxn": 20749,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core Ultra 5 322, 16GB de memoria RAM, 512GB SSD, pantalla 14\" 1920x1200 WUXGA Táctil, Windows 11 Home. Ventajas: Excelente diseño convertible (Yoga) con procesador Core Ultra moderno para gran duración de batería y pantalla WUXGA nítida. Desventajas: Al igual que otros equipos de su segmento, la limitación de 512GB SSD puede ser un problema a medio plazo si se guardan muchos videos o fotos de alta resolución."
+  },
+  {
+    "id": "TB011",
+    "nombre": "HP 15-FD2050",
+    "precio_mxn": 13929,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador Intel Core Ultra 5 225U, 8GB de memoria RAM, 512GB SSD, pantalla 15.6\" 1920x1080 Full HD Táctil, Windows 11 Home. Ventajas: Opción económica con pantalla táctil grande de 15.6\" y un procesador Intel Core Ultra muy eficiente para ofimática móvil. Desventajas: Los 8GB de RAM son el cuello de botella más grave de este equipo, limitando severamente la capacidad de abrir múltiples pestañas o aplicaciones modernas."
+  },
+  {
+    "id": "TB012",
+    "nombre": "Lenovo IdeaPad Slim 3 15AHP10",
+    "precio_mxn": 15399,
+    "tags": [
+      "laptop",
+      "tablet",
+      "ofimatica",
+      "movilidad"
+    ],
+    "texto": "Procesador AMD Ryzen 7 8840HS, 16GB de memoria RAM, 512GB SSD, pantalla 15.3\" 1920x1200 WUXGA Táctil, Windows 11 Home. Ventajas: Excelente relación calidad-precio ofreciendo un muy potente Ryzen 7 serie HS, 16GB de RAM y pantalla táctil WUXGA por un bajo costo. Desventajas: La carcasa \"Slim 3\" suele ser de plástico de calidad inferior a gamas altas, y el procesador de alto rendimiento podría sobrecalentarse bajo estrés continuo."
+  }
+]
