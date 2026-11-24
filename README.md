@@ -56,3 +56,41 @@ asistente-hardware-edge-rag/
     │           └── AndroidManifest.xml
     ├── build.gradle.kts
     └── settings.gradle.kts
+```
+
+---
+
+## Descarga de Modelos Binarios y Dependencias Externas
+
+Debido a las restricciones de tamaño y volumen de archivos de GitHub, los modelos cuantizados, el tokenizador extendido y el código fuente de `llama.cpp` se alojan de forma externa en Google Drive:
+
+* **Carpeta de binarios y dependencias:** [Enlace a Google Drive — PENDIENTE DE ACTUALIZAR]
+
+### Ubicación exacta de los archivos descargados
+
+1. **`Llama-3.2-1B-Instruct-Q4_K_M.gguf`**
+   * Copiar en: `android_app/app/src/main/assets/Llama-3.2-1B-Instruct-Q4_K_M.gguf`
+2. **`model.onnx` y `tokenizer.json`**
+   * Copiar en: `android_app/app/src/main/assets/embeddinggemma_onnx/`
+   * *(Opcional, para reejecutar `generar_catalogo_movil.py` en Python)*: copiar también en `python_offline/models/export/embeddinggemma_onnx/`.
+3. **`llama_cpp.zip`**
+   * Descomprimir dentro de `android_app/app/src/main/cpp/` de manera que quede la ruta: `android_app/app/src/main/cpp/llama_cpp/`.
+
+---
+
+## Instrucciones de Compilación (Android Studio)
+
+1. Clonar o descargar este repositorio.
+2. Descargar y colocar los 4 recursos externos de Google Drive en las rutas indicadas en la sección anterior.
+3. Abrir la carpeta `android_app/` en **Android Studio** (requiere Android NDK y CMake 3.22.1 instalados desde SDK Manager).
+4. Sincronizar Gradle (`Sync Project with Gradle Files`) y ejecutar en un dispositivo físico Android (ARM64 recomendado por el consumo de RAM del modelo GGUF).
+
+## Ejecución del Pipeline Offline (Python)
+
+Si se desea regenerar el modelo ONNX o recalcular el catálogo vectorizado:
+
+```bash
+cd python_offline
+python exportar_onnx.py
+python generar_catalogo_movil.py
+```
