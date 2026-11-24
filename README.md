@@ -64,7 +64,7 @@ asistente-hardware-edge-rag/
 
 Debido a las restricciones de tamaño y volumen de archivos de GitHub, los modelos cuantizados, el tokenizador extendido y el código fuente de `llama.cpp` se alojan de forma externa en Google Drive:
 
-* **Carpeta de binarios y dependencias:** [Enlace a Google Drive — PENDIENTE DE ACTUALIZAR]
+* **Carpeta de binarios y dependencias:** https://drive.google.com/drive/folders/1sWTkcY9c2Aa8U4XsM8NEsc5mc7jHMowt?usp=sharing
 
 ### Ubicación exacta de los archivos descargados
 
